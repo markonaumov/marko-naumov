@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\HomeworkClass4\class4Homework\bin\Debug\class4Homework.exe.config
+C:\Users\DELL\source\repos\HomeworkClass4\class4Homework\bin\Debug\class4Homework.exe
+C:\Users\DELL\source\repos\HomeworkClass4\class4Homework\bin\Debug\class4Homework.pdb
+C:\Users\DELL\source\repos\HomeworkClass4\class4Homework\obj\Debug\class4Homework.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\HomeworkClass4\class4Homework\obj\Debug\class4Homework.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\HomeworkClass4\class4Homework\obj\Debug\class4Homework.exe
+C:\Users\DELL\source\repos\HomeworkClass4\class4Homework\obj\Debug\class4Homework.pdb
