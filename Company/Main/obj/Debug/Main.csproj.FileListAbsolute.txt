@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\Company\Main\bin\Debug\Main.exe.config
+C:\Users\DELL\source\repos\Company\Main\bin\Debug\Main.exe
+C:\Users\DELL\source\repos\Company\Main\bin\Debug\Main.pdb
+C:\Users\DELL\source\repos\Company\Main\bin\Debug\Classes.dll
+C:\Users\DELL\source\repos\Company\Main\bin\Debug\Classes.pdb
+C:\Users\DELL\source\repos\Company\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Company\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Company\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\DELL\source\repos\Company\Main\obj\Debug\Main.exe
+C:\Users\DELL\source\repos\Company\Main\obj\Debug\Main.pdb

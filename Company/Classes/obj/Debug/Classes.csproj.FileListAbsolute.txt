@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\Company\Classes\bin\Debug\Classes.dll
+C:\Users\DELL\source\repos\Company\Classes\bin\Debug\Classes.pdb
+C:\Users\DELL\source\repos\Company\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Company\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Company\Classes\obj\Debug\Classes.dll
+C:\Users\DELL\source\repos\Company\Classes\obj\Debug\Classes.pdb
