@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Program\main2\bin\Debug\main2.exe.config
+C:\Users\DELL\source\repos\Program\main2\bin\Debug\main2.exe
+C:\Users\DELL\source\repos\Program\main2\bin\Debug\main2.pdb
+C:\Users\DELL\source\repos\Program\main2\obj\Debug\main2.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Program\main2\obj\Debug\main2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Program\main2\obj\Debug\main2.exe
+C:\Users\DELL\source\repos\Program\main2\obj\Debug\main2.pdb
