@@ -90,7 +90,7 @@ namespace Main
                                 Console.WriteLine(movie.Title);
                             }
                             Console.WriteLine("------------------------------");
-                            Console.WriteLine("Write the movie you want to watch:");
+                            Console.WriteLine("Write the title of the movie you want to watch:");
                             string film = Console.ReadLine();
                             temp.ListOfMovies = temp.ListOfMovies.Where(x => x.Title.ToLower() == film.ToLower()).ToList();
                             
@@ -103,7 +103,8 @@ namespace Main
 
                         case 2:
                             Console.WriteLine("------------------");
-                            Console.WriteLine("write your genre");
+                            Console.WriteLine("Comedy,Horror,Action,Drama,SciFi");
+                            Console.WriteLine("write your genre bellow");
                             string genre1 = Console.ReadLine();
                             temp.ListOfMovies = temp.ListOfMovies.Where(x => x.Genre.ToString().ToLower() == genre1.ToLower()).ToList();
                             foreach(var movie in temp.ListOfMovies)
